@@ -1,0 +1,24 @@
+{
+    "id": "ED24C100",
+    "path": "~/Git/web1/starter-academic/config/_default/config.toml",
+    "project_path": "config/_default/config.toml",
+    "type": "toml",
+    "hash": "698516994",
+    "contents": "",
+    "dirty": false,
+    "created": 1608265821002.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "12,27",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1608272030,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608272030410,
+    "read_only": false,
+    "read_only_alternatives": []
+}
