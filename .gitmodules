@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/mycala/mycala.github.io.git
+	url = https://github.com/jzhan211/jzhan211.github.io.git
 	branch = master
