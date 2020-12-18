@@ -40,6 +40,7 @@ design:
   view: 2
 ---
 
-- 04/17/20-07/17/20 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {{% staticref "files/2020 cala friday smeinar talks from april to july.pdf" "newtab" %}}2020 CALA Happy Friday Seminar Series{{% /staticref %}}
-
-- 04/14/20 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {{% staticref "files/april142020covid19forum.pdf" "newtab" %}}Online Brainstorm Forum{{% /staticref %}}
+|  |  |
+| --------------------- | -------------------------- |
+| 04/17/20-07/17/20 | {{% staticref "files/2020 cala friday smeinar talks from april to july.pdf" "newtab" %}}2020 CALA Happy Friday Seminar Series{{% /staticref %}} |
+| 04/14/20 | {{% staticref "files/april142020covid19forum.pdf" "newtab" %}}Online Brainstorm Forum{{% /staticref %}} |

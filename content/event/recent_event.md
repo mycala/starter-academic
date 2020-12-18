@@ -42,16 +42,12 @@ design:
 
 Most recent events can be found in [online forum](http://groups.google.com/group/lunginterestgroup)
 
-- 04/17/20-07/17/20 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {{% staticref "files/2020 cala friday smeinar talks from april to july.pdf" "newtab" %}}2020 CALA Happy Friday Seminar Series{{% /staticref %}}
-
-- 04/14/20 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {{% staticref "files/april142020covid19forum.pdf" "newtab" %}}Online Brainstorm Forum{{% /staticref %}}
-
-- 03/21/18 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {{% staticref "files/2018news.pdf" "newtab" %}}2018 News{{% /staticref %}}
-
-- 03/21/17 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {{% staticref "files/2017news.pdf" "newtab" %}}2017 News{{% /staticref %}}
-
-- 03/21/16 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {{% staticref "files/2016news.pdf" "newtab" %}}2016 News{{% /staticref %}}
-
-- 03/21/15 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {{% staticref "files/2015news.pdf" "newtab" %}}2015 News{{% /staticref %}}
-
-- 03/21/14 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {{% staticref "files/2014news.pdf" "newtab" %}}2014 News{{% /staticref %}}
+|  |  |
+| --------------------- | -------------------------- |
+| 04/17/20-07/17/20 | {{% staticref "files/2020 cala friday smeinar talks from april to july.pdf" "newtab" %}}2020 CALA Happy Friday Seminar Series{{% /staticref %}} |
+| 04/14/20 | {{% staticref "files/april142020covid19forum.pdf" "newtab" %}}Online Brainstorm Forum{{% /staticref %}} |
+| 03/21/18 | {{% staticref "files/2018news.pdf" "newtab" %}}2018 News{{% /staticref %}} |
+| 03/21/17 | {{% staticref "files/2017news.pdf" "newtab" %}}2017 News{{% /staticref %}} |
+| 03/21/16 | {{% staticref "files/2016news.pdf" "newtab" %}}2016 News{{% /staticref %}} |
+| 03/21/15 | {{% staticref "files/2015news.pdf" "newtab" %}}2015 News{{% /staticref %}} |
+| 03/21/14 | {{% staticref "files/2014news.pdf" "newtab" %}}2014 News{{% /staticref %}} |
