@@ -46,4 +46,4 @@ design:
 | 12/18/20 | Happy Friday Seminar: Type 17 Mucosal Immunity by Dr. Jay K. Kolls, Professor at Tulane University |
 | 11/20/20 | Happy Friday Seminar: Role of Sphingolipid Pathways in the pathobiology of Pulmonary Arterial Hypertension by Dr. Jiwang Chen, Research Associate Professor at the University of Illinois at Chicago |
 | 10/23/20| Happy Friday Seminar: mtDNA Activities cGAS Signaling and Suppresses the YAP-Mediated Endothelial Cell Proliferation by Dr. Longshuang Huang, Research Assistant Professor at the University of Illinois at Chicago |
-| 9/18/20 | Happy Friday Seminar: Pave the Way to Independence -- All about Career Development Grants and Job Applications by Dr. 
+| 9/18/20 | Happy Friday Seminar: Pave the Way to Independence -- All about Career Development Grants and Job Applications |
