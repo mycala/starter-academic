@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Meet CALA Members"
+title = "Meet Us"
 subtitle = ""
 
 [content]
