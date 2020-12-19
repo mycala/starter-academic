@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 90
+user_groups:
+-  Members
 ---
 **Professor, Department of Molecular, Cellular Physiology at Albany Medical College**
 

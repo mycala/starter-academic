@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 110
+user_groups:
+-  Members
 ---
 
 **Associate Professor , Brown University**

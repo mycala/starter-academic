@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 130
+user_groups:
+-  Members
 ---
 
 **Professor of Physiology and Cell Biology,Ohio State University**<br>

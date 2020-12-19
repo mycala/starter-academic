@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 40
+user_groups:
+-  Members
 ---
 
 **Professor, Texas Lung Injury Institute, Department of Cellular and Molecular Biology, University of Texas Health Science Center at Tyler**

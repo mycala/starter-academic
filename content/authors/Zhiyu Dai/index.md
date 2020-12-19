@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 20
+user_groups:
+-  Members
 ---
 
 **Assistant Professor of Medicine, University of Arizona College of Medicine-Phoenix**

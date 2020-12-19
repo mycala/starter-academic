@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 30
+user_groups:
+-  Members
 ---
 
 **Associate Professor, Environmental and Occupational Health, University of Pittsburgh     Director, Inhalation Exposure Facility, University of Pittsburgh;**<br>

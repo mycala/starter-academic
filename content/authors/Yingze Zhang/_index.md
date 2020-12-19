@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 120
+user_groups:
+-  Members
 ---
 
 **Associate Professor of Medicine and Human Genetics**<br>

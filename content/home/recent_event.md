@@ -42,5 +42,8 @@ design:
 
 |  |  |
 | --------------------- | -------------------------- |
-| 04/17/20-07/17/20 | {{% staticref "files/2020 cala friday smeinar talks from april to july.pdf" "newtab" %}}2020 CALA Happy Friday Seminar Series{{% /staticref %}} |
-| 04/14/20 | {{% staticref "files/april142020covid19forum.pdf" "newtab" %}}Online Brainstorm Forum{{% /staticref %}} |
+| 12/19/20 | CALA Holiday Party |
+| 12/18/20 | Happy Friday Seminar: Type 17 Mucosal Immunity by Dr. Jay K. Kolls, Professor at Tulane University |
+| 11/20/20 | Happy Friday Seminar: Role of Sphingolipid Pathways in the pathobiology of Pulmonary Arterial Hypertension by Dr. Jiwang Chen, Research Associate Professor at the University of Illinois at Chicago |
+| 10/23/20| Happy Friday Seminar: mtDNA Activities cGAS Signaling and Suppresses the YAP-Mediated Endothelial Cell Proliferation by Dr. Longshuang Huang, Research Assistant Professor at the University of Illinois at Chicago |
+| 9/18/20 | Happy Friday Seminar: Pave the Way to Independence -- All about Career Development Grants and Job Applications by Dr. 

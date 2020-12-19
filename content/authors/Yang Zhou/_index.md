@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 150
+user_groups:
+-  Members
 ---
 
 **Assistant Professor of Molecular Microbiology and Immunology, Division of Biology and Medicine, Brown University**

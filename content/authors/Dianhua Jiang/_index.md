@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 60
+user_groups:
+-  Members
 ---
 
 **Professor, Department of Medicine Pulmonary Division and the Women’s Guild Lung Institute, Cedars-Sinai Medical Center, Los Angeles, CA.**<br>

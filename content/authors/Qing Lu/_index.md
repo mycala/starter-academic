@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 70
+user_groups:
+-  Members
 ---
 
 **Associate Professor of Medicine, Alpert Medical School of Brown University**<br>

@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 80
+user_groups:
+-  Members
 ---
 
 **Professor of Pharmacology at Medical College of Georgia, Augusta University**<br>

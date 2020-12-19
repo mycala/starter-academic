@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 100
+user_groups:
+-  Members
 ---
 
 **Associate Researcher, Department of Medicine, Division of Pulmonary, Critical care and Sleep Medicine, Icahn School of Medicine at Mount Sinai.**<br>

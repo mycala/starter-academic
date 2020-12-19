@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 140
+user_groups:
+-  Members
 ---
 
 **Assistant Professor, Director of the Functional Genomics Laboratory**<br>

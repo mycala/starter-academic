@@ -69,6 +69,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+weight: 10
+user_groups:
+-  Members
 ---
 
 **Associate Professor of Pediatrics, Department of Pediatrics, School of Medicine, University of Pittsburgh**<br>
